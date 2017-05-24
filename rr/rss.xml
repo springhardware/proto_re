@@ -1,0 +1,852 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated on Sat, 13 May 2017 11:57:54 -0700 -->
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <atom:link href="http://musicforprogramming.net/rss.php" rel="self" type="application/rss+xml" />
+    <title>Music For Programming</title>
+    <link>http://musicforprogramming.net/img/mfp.jpg</link>
+    <description>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</description>
+    <copyright>2011, All Rights Reserved</copyright>
+    <itunes:summary>A series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</itunes:summary>
+    <itunes:subtitle>Music For Programming</itunes:subtitle>
+    <itunes:category text="Music"></itunes:category>
+    <itunes:image href="http://musicforprogramming.net/img/itunes.jpg"></itunes:image>
+    <image>
+        <url>http://musicforprogramming.net/img/mfp.jpg</url>
+        <title>Music For Programming</title>
+        <link>http://musicforprogramming.net/img/mfp.jpg</link>
+        <width>144</width>
+        <height>144</height>
+    </image>
+    <itunes:owner>
+        <itunes:name>John Davies</itunes:name>
+        <itunes:email>info@datassette.net</itunes:email>
+    </itunes:owner>
+    <itunes:author>Datassette</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <ttl>60</ttl>
+
+
+
+
+    <language>en-gb</language>
+    <managingEditor>info@datassette.net (John Davies)</managingEditor>
+    <webMaster>info@datassette.net (John Davies)</webMaster>
+    <generator>PHP RSS Feed Generator</generator>
+    <item>
+      <title>Episode 48: Michael Hicks</title>
+      <description>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</description>
+      <link>http://musicforprogramming.net/?c=fortyeight</link>
+      <pubDate>Thu, 06 Apr 2017 22:09:00 -0700</pubDate>
+      <comments>http://datashat.net/music_for_programming_48-michael_hicks.mp3</comments>
+      <guid>http://datashat.net/music_for_programming_48-michael_hicks.mp3</guid>
+        <itunes:subtitle>Episode 48: Michael Hicks</itunes:subtitle>
+        <itunes:summary>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</itunes:summary>
+        <itunes:keywords>Electronic, Ambient, Acoustic, Drone, Noise, Instrumental, Study, Concentration, Programming</itunes:keywords>
+        <itunes:duration>0:51:10</itunes:duration>
+        <itunes:author>Music For Programming</itunes:author>
+        <itunes:image href="http://musicforprogramming.net/img/mfp.jpg"></itunes:image>
+        <dc:creator>Music For Programming</dc:creator>
+        <enclosure url="http://datashat.net/music_for_programming_48-michael_hicks.mp3" length="89189869" type="audio/mpeg" />
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 47: Abe Mangger</title>
+      <description>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</description>
+      <link>http://musicforprogramming.net/?c=fortyseven</link>
+      <pubDate>Sat, 04 Mar 2017 01:56:21 -0800</pubDate>
+      <comments>http://datashat.net/music_for_programming_47-abe_mangger.mp3</comments>
+      <guid>http://datashat.net/music_for_programming_47-abe_mangger.mp3</guid>
+        <itunes:subtitle>Episode 47: Abe Mangger</itunes:subtitle>
+        <itunes:summary>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</itunes:summary>
+        <itunes:keywords>Electronic, Ambient, Acoustic, Drone, Noise, Instrumental, Study, Concentration, Programming</itunes:keywords>
+        <itunes:duration>2:25:42</itunes:duration>
+        <itunes:author>Music For Programming</itunes:author>
+        <itunes:image href="http://musicforprogramming.net/img/mfp.jpg"></itunes:image>
+        <dc:creator>Music For Programming</dc:creator>
+        <enclosure url="http://datashat.net/music_for_programming_47-abe_mangger.mp3" length="272072172" type="audio/mpeg" />
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 46: Jo Johnson</title>
+      <description>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</description>
+      <link>http://musicforprogramming.net/?c=fortysix</link>
+      <pubDate>Tue, 17 Jan 2017 17:57:21 -0800</pubDate>
+      <comments>http://datashat.net/music_for_programming_46-jo_johnson.mp3</comments>
+      <guid>http://datashat.net/music_for_programming_46-jo_johnson.mp3</guid>
+        <itunes:subtitle>Episode 46: Jo Johnson</itunes:subtitle>
+        <itunes:summary>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</itunes:summary>
+        <itunes:keywords>Electronic, Ambient, Acoustic, Drone, Noise, Instrumental, Study, Concentration, Programming</itunes:keywords>
+        <itunes:duration>1:23:58</itunes:duration>
+        <itunes:author>Music For Programming</itunes:author>
+        <itunes:image href="http://musicforprogramming.net/img/mfp.jpg"></itunes:image>
+        <dc:creator>Music For Programming</dc:creator>
+        <enclosure url="http://datashat.net/music_for_programming_46-jo_johnson.mp3" length="153256102" type="audio/mpeg" />
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 45: Ehohroma</title>
+      <description>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</description>
+      <link>http://musicforprogramming.net/?c=fortyfive</link>
+      <pubDate>Fri, 16 Dec 2016 15:10:00 -0800</pubDate>
+      <comments>http://datashat.net/music_for_programming_45-ehohroma.mp3</comments>
+      <guid>http://datashat.net/music_for_programming_45-ehohroma.mp3</guid>
+        <itunes:subtitle>Episode 45: Ehohroma</itunes:subtitle>
+        <itunes:summary>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</itunes:summary>
+        <itunes:keywords>Electronic, Ambient, Acoustic, Drone, Noise, Instrumental, Study, Concentration, Programming</itunes:keywords>
+        <itunes:duration>1:08:51</itunes:duration>
+        <itunes:author>Music For Programming</itunes:author>
+        <itunes:image href="http://musicforprogramming.net/img/mfp.jpg"></itunes:image>
+        <dc:creator>Music For Programming</dc:creator>
+        <enclosure url="http://datashat.net/music_for_programming_45-ehohroma.mp3" length="122212334" type="audio/mpeg" />
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 44: hukka</title>
+      <description>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</description>
+      <link>http://musicforprogramming.net/?c=fortyfour</link>
+      <pubDate>Thu, 13 Oct 2016 12:40:00 -0700</pubDate>
+      <comments>http://datashat.net/music_for_programming_44-hukka.mp3</comments>
+      <guid>http://datashat.net/music_for_programming_44-hukka.mp3</guid>
+        <itunes:subtitle>Episode 44: hukka</itunes:subtitle>
+        <itunes:summary>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</itunes:summary>
+        <itunes:keywords>Electronic, Ambient, Acoustic, Drone, Noise, Instrumental, Study, Concentration, Programming</itunes:keywords>
+        <itunes:duration>0:58:27</itunes:duration>
+        <itunes:author>Music For Programming</itunes:author>
+        <itunes:image href="http://musicforprogramming.net/img/mfp.jpg"></itunes:image>
+        <dc:creator>Music For Programming</dc:creator>
+        <enclosure url="http://datashat.net/music_for_programming_44-hukka.mp3" length="104068914" type="audio/mpeg" />
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 43: Hey Exit</title>
+      <description>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</description>
+      <link>http://musicforprogramming.net/?c=fortythree</link>
+      <pubDate>Wed, 14 Sep 2016 17:31:00 -0700</pubDate>
+      <comments>http://datashat.net/music_for_programming_43-hey_exit.mp3</comments>
+      <guid>http://datashat.net/music_for_programming_43-hey_exit.mp3</guid>
+        <itunes:subtitle>Episode 43: Hey Exit</itunes:subtitle>
+        <itunes:summary>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</itunes:summary>
+        <itunes:keywords>Electronic, Ambient, Acoustic, Drone, Noise, Instrumental, Study, Concentration, Programming</itunes:keywords>
+        <itunes:duration>1:13:44</itunes:duration>
+        <itunes:author>Music For Programming</itunes:author>
+        <itunes:image href="http://musicforprogramming.net/img/mfp.jpg"></itunes:image>
+        <dc:creator>Music For Programming</dc:creator>
+        <enclosure url="http://datashat.net/music_for_programming_43-hey_exit.mp3" length="136405954" type="audio/mpeg" />
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 42: Datassette</title>
+      <description>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</description>
+      <link>http://musicforprogramming.net/?c=fortytwo</link>
+      <pubDate>Wed, 03 Aug 2016 15:36:00 -0700</pubDate>
+      <comments>http://datashat.net/music_for_programming_42-datassette.mp3</comments>
+      <guid>http://datashat.net/music_for_programming_42-datassette.mp3</guid>
+        <itunes:subtitle>Episode 42: Datassette</itunes:subtitle>
+        <itunes:summary>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</itunes:summary>
+        <itunes:keywords>Electronic, Ambient, Acoustic, Drone, Noise, Instrumental, Study, Concentration, Programming</itunes:keywords>
+        <itunes:duration>1:01:15</itunes:duration>
+        <itunes:author>Music For Programming</itunes:author>
+        <itunes:image href="http://musicforprogramming.net/img/mfp.jpg"></itunes:image>
+        <dc:creator>Music For Programming</dc:creator>
+        <enclosure url="http://datashat.net/music_for_programming_42-datassette.mp3" length="111264634" type="audio/mpeg" />
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 41: Sunjammer</title>
+      <description>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</description>
+      <link>http://musicforprogramming.net/?c=fortyone</link>
+      <pubDate>Wed, 13 Jul 2016 14:08:00 -0700</pubDate>
+      <comments>http://datashat.net/music_for_programming_41-sunjammer.mp3</comments>
+      <guid>http://datashat.net/music_for_programming_41-sunjammer.mp3</guid>
+        <itunes:subtitle>Episode 41: Sunjammer</itunes:subtitle>
+        <itunes:summary>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</itunes:summary>
+        <itunes:keywords>Electronic, Ambient, Acoustic, Drone, Noise, Instrumental, Study, Concentration, Programming</itunes:keywords>
+        <itunes:duration>1:01:42</itunes:duration>
+        <itunes:author>Music For Programming</itunes:author>
+        <itunes:image href="http://musicforprogramming.net/img/mfp.jpg"></itunes:image>
+        <dc:creator>Music For Programming</dc:creator>
+        <enclosure url="http://datashat.net/music_for_programming_41-sunjammer.mp3" length="114760271" type="audio/mpeg" />
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 40: Mark Schneider</title>
+      <description>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</description>
+      <link>http://musicforprogramming.net/?c=forty</link>
+      <pubDate>Thu, 12 May 2016 23:20:00 -0700</pubDate>
+      <comments>http://datashat.net/music_for_programming_40-mark_schneider.mp3</comments>
+      <guid>http://datashat.net/music_for_programming_40-mark_schneider.mp3</guid>
+        <itunes:subtitle>Episode 40: Mark Schneider</itunes:subtitle>
+        <itunes:summary>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</itunes:summary>
+        <itunes:keywords>Electronic, Ambient, Acoustic, Drone, Noise, Instrumental, Study, Concentration, Programming</itunes:keywords>
+        <itunes:duration>0:58:52</itunes:duration>
+        <itunes:author>Music For Programming</itunes:author>
+        <itunes:image href="http://musicforprogramming.net/img/mfp.jpg"></itunes:image>
+        <dc:creator>Music For Programming</dc:creator>
+        <enclosure url="http://datashat.net/music_for_programming_40-mark_schneider.mp3" length="104780142" type="audio/mpeg" />
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 39: Kidding Kurrys</title>
+      <description>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</description>
+      <link>http://musicforprogramming.net/?c=thirtynine</link>
+      <pubDate>Wed, 13 Apr 2016 21:44:00 -0700</pubDate>
+      <comments>http://datashat.net/music_for_programming_39-kidding_kurrys.mp3</comments>
+      <guid>http://datashat.net/music_for_programming_39-kidding_kurrys.mp3</guid>
+        <itunes:subtitle>Episode 39: Kidding Kurrys</itunes:subtitle>
+        <itunes:summary>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</itunes:summary>
+        <itunes:keywords>Electronic, Ambient, Acoustic, Drone, Noise, Instrumental, Study, Concentration, Programming</itunes:keywords>
+        <itunes:duration>1:07:46</itunes:duration>
+        <itunes:author>Music For Programming</itunes:author>
+        <itunes:image href="http://musicforprogramming.net/img/mfp.jpg"></itunes:image>
+        <dc:creator>Music For Programming</dc:creator>
+        <enclosure url="http://datashat.net/music_for_programming_39-kidding_kurrys.mp3" length="122886937" type="audio/mpeg" />
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 38: J.S. Aurelius</title>
+      <description>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</description>
+      <link>http://musicforprogramming.net/?c=thirtyeight</link>
+      <pubDate>Mon, 08 Feb 2016 18:50:00 -0800</pubDate>
+      <comments>http://datashat.net/music_for_programming_38-j_s_aurelius.mp3</comments>
+      <guid>http://datashat.net/music_for_programming_38-j_s_aurelius.mp3</guid>
+        <itunes:subtitle>Episode 38: J.S. Aurelius</itunes:subtitle>
+        <itunes:summary>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</itunes:summary>
+        <itunes:keywords>Electronic, Ambient, Acoustic, Drone, Noise, Instrumental, Study, Concentration, Programming</itunes:keywords>
+        <itunes:duration>1:00:03</itunes:duration>
+        <itunes:author>Music For Programming</itunes:author>
+        <itunes:image href="http://musicforprogramming.net/img/mfp.jpg"></itunes:image>
+        <dc:creator>Music For Programming</dc:creator>
+        <enclosure url="http://datashat.net/music_for_programming_38-j_s_aurelius.mp3" length="113933712" type="audio/mpeg" />
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 37: Lackluster</title>
+      <description>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</description>
+      <link>http://musicforprogramming.net/?c=thirtyseven</link>
+      <pubDate>Thu, 24 Dec 2015 13:27:00 -0800</pubDate>
+      <comments>http://datashat.net/music_for_programming_37-lackluster.mp3</comments>
+      <guid>http://datashat.net/music_for_programming_37-lackluster.mp3</guid>
+        <itunes:subtitle>Episode 37: Lackluster</itunes:subtitle>
+        <itunes:summary>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</itunes:summary>
+        <itunes:keywords>Electronic, Ambient, Acoustic, Drone, Noise, Instrumental, Study, Concentration, Programming</itunes:keywords>
+        <itunes:duration>0:58:41</itunes:duration>
+        <itunes:author>Music For Programming</itunes:author>
+        <itunes:image href="http://musicforprogramming.net/img/mfp.jpg"></itunes:image>
+        <dc:creator>Music For Programming</dc:creator>
+        <enclosure url="http://datashat.net/music_for_programming_37-lackluster.mp3" length="112902798" type="audio/mpeg" />
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 36: Ea7_dmZ</title>
+      <description>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</description>
+      <link>http://musicforprogramming.net/?c=thirtysix</link>
+      <pubDate>Tue, 24 Nov 2015 21:21:00 -0800</pubDate>
+      <comments>http://datashat.net/music_for_programming_36-ea7_dmz.mp3</comments>
+      <guid>http://datashat.net/music_for_programming_36-ea7_dmz.mp3</guid>
+        <itunes:subtitle>Episode 36: Ea7_dmZ</itunes:subtitle>
+        <itunes:summary>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</itunes:summary>
+        <itunes:keywords>Electronic, Ambient, Acoustic, Drone, Noise, Instrumental, Study, Concentration, Programming</itunes:keywords>
+        <itunes:duration>1:10:08</itunes:duration>
+        <itunes:author>Music For Programming</itunes:author>
+        <itunes:image href="http://musicforprogramming.net/img/mfp.jpg"></itunes:image>
+        <dc:creator>Music For Programming</dc:creator>
+        <enclosure url="http://datashat.net/music_for_programming_36-ea7_dmz.mp3" length="130531788" type="audio/mpeg" />
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 35: Nadim Kobeissi</title>
+      <description>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</description>
+      <link>http://musicforprogramming.net/?c=thirtyfive</link>
+      <pubDate>Tue, 13 Oct 2015 23:00:00 -0700</pubDate>
+      <comments>http://datashat.net/music_for_programming_35-nadim_kobeissi.mp3</comments>
+      <guid>http://datashat.net/music_for_programming_35-nadim_kobeissi.mp3</guid>
+        <itunes:subtitle>Episode 35: Nadim Kobeissi</itunes:subtitle>
+        <itunes:summary>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</itunes:summary>
+        <itunes:keywords>Electronic, Ambient, Acoustic, Drone, Noise, Instrumental, Study, Concentration, Programming</itunes:keywords>
+        <itunes:duration>0:57:05</itunes:duration>
+        <itunes:author>Music For Programming</itunes:author>
+        <itunes:image href="http://musicforprogramming.net/img/mfp.jpg"></itunes:image>
+        <dc:creator>Music For Programming</dc:creator>
+        <enclosure url="http://datashat.net/music_for_programming_35-nadim_kobeissi.mp3" length="112505176" type="audio/mpeg" />
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 34: Chukus</title>
+      <description>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</description>
+      <link>http://musicforprogramming.net/?c=thirtyfour</link>
+      <pubDate>Tue, 15 Sep 2015 14:00:00 -0700</pubDate>
+      <comments>http://datashat.net/music_for_programming_34-chukus.mp3</comments>
+      <guid>http://datashat.net/music_for_programming_34-chukus.mp3</guid>
+        <itunes:subtitle>Episode 34: Chukus</itunes:subtitle>
+        <itunes:summary>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</itunes:summary>
+        <itunes:keywords>Electronic, Ambient, Acoustic, Drone, Noise, Instrumental, Study, Concentration, Programming</itunes:keywords>
+        <itunes:duration>0:59:26</itunes:duration>
+        <itunes:author>Music For Programming</itunes:author>
+        <itunes:image href="http://musicforprogramming.net/img/mfp.jpg"></itunes:image>
+        <dc:creator>Music For Programming</dc:creator>
+        <enclosure url="http://datashat.net/music_for_programming_34-chukus.mp3" length="110511670" type="audio/mpeg" />
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 33: uuav</title>
+      <description>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</description>
+      <link>http://musicforprogramming.net/?c=thirtythree</link>
+      <pubDate>Tue, 16 Jun 2015 10:00:00 -0700</pubDate>
+      <comments>http://datashat.net/music_for_programming_33-uuav.mp3</comments>
+      <guid>http://datashat.net/music_for_programming_33-uuav.mp3</guid>
+        <itunes:subtitle>Episode 33: uuav</itunes:subtitle>
+        <itunes:summary>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</itunes:summary>
+        <itunes:keywords>Electronic, Ambient, Acoustic, Drone, Noise, Instrumental, Study, Concentration, Programming</itunes:keywords>
+        <itunes:duration>1:00:47</itunes:duration>
+        <itunes:author>Music For Programming</itunes:author>
+        <itunes:image href="http://musicforprogramming.net/img/mfp.jpg"></itunes:image>
+        <dc:creator>Music For Programming</dc:creator>
+        <enclosure url="http://datashat.net/music_for_programming_33-uuav.mp3" length="114829183" type="audio/mpeg" />
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 32: Chris Seddon</title>
+      <description>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</description>
+      <link>http://musicforprogramming.net/?c=thirtytwo</link>
+      <pubDate>Tue, 05 May 2015 10:20:00 -0700</pubDate>
+      <comments>http://datashat.net/music_for_programming_32-chris_seddon.mp3</comments>
+      <guid>http://datashat.net/music_for_programming_32-chris_seddon.mp3</guid>
+        <itunes:subtitle>Episode 32: Chris Seddon</itunes:subtitle>
+        <itunes:summary>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</itunes:summary>
+        <itunes:keywords>Electronic, Ambient, Acoustic, Drone, Noise, Instrumental, Study, Concentration, Programming</itunes:keywords>
+        <itunes:duration>1:08:31</itunes:duration>
+        <itunes:author>Music For Programming</itunes:author>
+        <itunes:image href="http://musicforprogramming.net/img/mfp.jpg"></itunes:image>
+        <dc:creator>Music For Programming</dc:creator>
+        <enclosure url="http://datashat.net/music_for_programming_32-chris_seddon.mp3" length="123997977" type="audio/mpeg" />
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 31: Datassette</title>
+      <description>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</description>
+      <link>http://musicforprogramming.net/?c=thirtyone</link>
+      <pubDate>Sat, 28 Feb 2015 07:20:00 -0800</pubDate>
+      <comments>http://datashat.net/music_for_programming_31-datassette.mp3</comments>
+      <guid>http://datashat.net/music_for_programming_31-datassette.mp3</guid>
+        <itunes:subtitle>Episode 31: Datassette</itunes:subtitle>
+        <itunes:summary>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</itunes:summary>
+        <itunes:keywords>Electronic, Ambient, Acoustic, Drone, Noise, Instrumental, Study, Concentration, Programming</itunes:keywords>
+        <itunes:duration>1:01:34</itunes:duration>
+        <itunes:author>Music For Programming</itunes:author>
+        <itunes:image href="http://musicforprogramming.net/img/mfp.jpg"></itunes:image>
+        <dc:creator>Music For Programming</dc:creator>
+        <enclosure url="http://datashat.net/music_for_programming_31-datassette.mp3" length="113323360" type="audio/mpeg" />
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 30: Matt Kruse</title>
+      <description>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</description>
+      <link>http://musicforprogramming.net/?c=thirty</link>
+      <pubDate>Thu, 22 Jan 2015 17:05:00 -0800</pubDate>
+      <comments>http://datashat.net/music_for_programming_30-matt_kruse.mp3</comments>
+      <guid>http://datashat.net/music_for_programming_30-matt_kruse.mp3</guid>
+        <itunes:subtitle>Episode 30: Matt Kruse</itunes:subtitle>
+        <itunes:summary>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</itunes:summary>
+        <itunes:keywords>Electronic, Ambient, Acoustic, Drone, Noise, Instrumental, Study, Concentration, Programming</itunes:keywords>
+        <itunes:duration>1:09:01</itunes:duration>
+        <itunes:author>Music For Programming</itunes:author>
+        <itunes:image href="http://musicforprogramming.net/img/mfp.jpg"></itunes:image>
+        <dc:creator>Music For Programming</dc:creator>
+        <enclosure url="http://datashat.net/music_for_programming_30-matt_kruse.mp3" length="125684875" type="audio/mpeg" />
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 29: Luke Handsfree</title>
+      <description>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</description>
+      <link>http://musicforprogramming.net/?c=twentynine</link>
+      <pubDate>Tue, 21 Oct 2014 07:25:00 -0700</pubDate>
+      <comments>http://datashat.net/music_for_programming_29-luke_handsfree.mp3</comments>
+      <guid>http://datashat.net/music_for_programming_29-luke_handsfree.mp3</guid>
+        <itunes:subtitle>Episode 29: Luke Handsfree</itunes:subtitle>
+        <itunes:summary>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</itunes:summary>
+        <itunes:keywords>Electronic, Ambient, Acoustic, Drone, Noise, Instrumental, Study, Concentration, Programming</itunes:keywords>
+        <itunes:duration>0:58:16</itunes:duration>
+        <itunes:author>Music For Programming</itunes:author>
+        <itunes:image href="http://musicforprogramming.net/img/mfp.jpg"></itunes:image>
+        <dc:creator>Music For Programming</dc:creator>
+        <enclosure url="http://datashat.net/music_for_programming_29-luke_handsfree.mp3" length="108039420" type="audio/mpeg" />
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 28: Big War</title>
+      <description>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</description>
+      <link>http://musicforprogramming.net/?c=twentyeight</link>
+      <pubDate>Thu, 11 Sep 2014 10:25:00 -0700</pubDate>
+      <comments>http://datashat.net/music_for_programming_28-big_war.mp3</comments>
+      <guid>http://datashat.net/music_for_programming_28-big_war.mp3</guid>
+        <itunes:subtitle>Episode 28: Big War</itunes:subtitle>
+        <itunes:summary>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</itunes:summary>
+        <itunes:keywords>Electronic, Ambient, Acoustic, Drone, Noise, Instrumental, Study, Concentration, Programming</itunes:keywords>
+        <itunes:duration>1:02:46</itunes:duration>
+        <itunes:author>Music For Programming</itunes:author>
+        <itunes:image href="http://musicforprogramming.net/img/mfp.jpg"></itunes:image>
+        <dc:creator>Music For Programming</dc:creator>
+        <enclosure url="http://datashat.net/music_for_programming_28-big_war.mp3" length="116772600" type="audio/mpeg" />
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 27: Michael Hicks</title>
+      <description>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</description>
+      <link>http://musicforprogramming.net/?c=twentyseven</link>
+      <pubDate>Tue, 01 Jul 2014 08:50:00 -0700</pubDate>
+      <comments>http://datashat.net/music_for_programming_27-michael_hicks.mp3</comments>
+      <guid>http://datashat.net/music_for_programming_27-michael_hicks.mp3</guid>
+        <itunes:subtitle>Episode 27: Michael Hicks</itunes:subtitle>
+        <itunes:summary>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</itunes:summary>
+        <itunes:keywords>Electronic, Ambient, Acoustic, Drone, Noise, Instrumental, Study, Concentration, Programming</itunes:keywords>
+        <itunes:duration>0:52:52</itunes:duration>
+        <itunes:author>Music For Programming</itunes:author>
+        <itunes:image href="http://musicforprogramming.net/img/mfp.jpg"></itunes:image>
+        <dc:creator>Music For Programming</dc:creator>
+        <enclosure url="http://datashat.net/music_for_programming_27-michael_hicks.mp3" length="97694187" type="audio/mpeg" />
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 26: Abstraction</title>
+      <description>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</description>
+      <link>http://musicforprogramming.net/?c=twentysix</link>
+      <pubDate>Tue, 03 Jun 2014 07:00:00 -0700</pubDate>
+      <comments>http://datashat.net/music_for_programming_26-abstraction.mp3</comments>
+      <guid>http://datashat.net/music_for_programming_26-abstraction.mp3</guid>
+        <itunes:subtitle>Episode 26: Abstraction</itunes:subtitle>
+        <itunes:summary>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</itunes:summary>
+        <itunes:keywords>Electronic, Ambient, Acoustic, Drone, Noise, Instrumental, Study, Concentration, Programming</itunes:keywords>
+        <itunes:duration>1:02:30</itunes:duration>
+        <itunes:author>Music For Programming</itunes:author>
+        <itunes:image href="http://musicforprogramming.net/img/mfp.jpg"></itunes:image>
+        <dc:creator>Music For Programming</dc:creator>
+        <enclosure url="http://datashat.net/music_for_programming_26-abstraction.mp3" length="117107955" type="audio/mpeg" />
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 25: _nono_</title>
+      <description>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</description>
+      <link>http://musicforprogramming.net/?c=twentyfive</link>
+      <pubDate>Tue, 06 May 2014 04:00:00 -0700</pubDate>
+      <comments>http://datashat.net/music_for_programming_25-_nono_.mp3</comments>
+      <guid>http://datashat.net/music_for_programming_25-_nono_.mp3</guid>
+        <itunes:subtitle>Episode 25: _nono_</itunes:subtitle>
+        <itunes:summary>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</itunes:summary>
+        <itunes:keywords>Electronic, Ambient, Acoustic, Drone, Noise, Instrumental, Study, Concentration, Programming</itunes:keywords>
+        <itunes:duration>1:15:25</itunes:duration>
+        <itunes:author>Music For Programming</itunes:author>
+        <itunes:image href="http://musicforprogramming.net/img/mfp.jpg"></itunes:image>
+        <dc:creator>Music For Programming</dc:creator>
+        <enclosure url="http://datashat.net/music_for_programming_25-_nono_.mp3" length="133286803" type="audio/mpeg" />
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 24: RITES</title>
+      <description>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</description>
+      <link>http://musicforprogramming.net/?c=twentyfour</link>
+      <pubDate>Mon, 17 Mar 2014 09:44:00 -0700</pubDate>
+      <comments>http://datashat.net/music_for_programming_24-rites.mp3</comments>
+      <guid>http://datashat.net/music_for_programming_24-rites.mp3</guid>
+        <itunes:subtitle>Episode 24: RITES</itunes:subtitle>
+        <itunes:summary>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</itunes:summary>
+        <itunes:keywords>Electronic, Ambient, Acoustic, Drone, Noise, Instrumental, Study, Concentration, Programming</itunes:keywords>
+        <itunes:duration>1:10:27</itunes:duration>
+        <itunes:author>Music For Programming</itunes:author>
+        <itunes:image href="http://musicforprogramming.net/img/mfp.jpg"></itunes:image>
+        <dc:creator>Music For Programming</dc:creator>
+        <enclosure url="http://datashat.net/music_for_programming_24-rites.mp3" length="128132023" type="audio/mpeg" />
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 23: Panda Magic</title>
+      <description>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</description>
+      <link>http://musicforprogramming.net/?c=twentythree</link>
+      <pubDate>Wed, 11 Dec 2013 09:20:00 -0800</pubDate>
+      <comments>http://datashat.net/music_for_programming_23-panda_magic.mp3</comments>
+      <guid>http://datashat.net/music_for_programming_23-panda_magic.mp3</guid>
+        <itunes:subtitle>Episode 23: Panda Magic</itunes:subtitle>
+        <itunes:summary>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</itunes:summary>
+        <itunes:keywords>Electronic, Ambient, Acoustic, Drone, Noise, Instrumental, Study, Concentration, Programming</itunes:keywords>
+        <itunes:duration>1:06:00</itunes:duration>
+        <itunes:author>Music For Programming</itunes:author>
+        <itunes:image href="http://musicforprogramming.net/img/mfp.jpg"></itunes:image>
+        <dc:creator>Music For Programming</dc:creator>
+        <enclosure url="http://datashat.net/music_for_programming_23-panda_magic.mp3" length="120487936" type="audio/mpeg" />
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 22: Mindaugaszq</title>
+      <description>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</description>
+      <link>http://musicforprogramming.net/?c=twentytwo</link>
+      <pubDate>Thu, 24 Oct 2013 15:37:00 -0700</pubDate>
+      <comments>http://datashat.net/music_for_programming_22-mindaugaszq.mp3</comments>
+      <guid>http://datashat.net/music_for_programming_22-mindaugaszq.mp3</guid>
+        <itunes:subtitle>Episode 22: Mindaugaszq</itunes:subtitle>
+        <itunes:summary>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</itunes:summary>
+        <itunes:keywords>Electronic, Ambient, Acoustic, Drone, Noise, Instrumental, Study, Concentration, Programming</itunes:keywords>
+        <itunes:duration>0:46:54</itunes:duration>
+        <itunes:author>Music For Programming</itunes:author>
+        <itunes:image href="http://musicforprogramming.net/img/mfp.jpg"></itunes:image>
+        <dc:creator>Music For Programming</dc:creator>
+        <enclosure url="http://datashat.net/music_for_programming_22-mindaugaszq.mp3" length="87625366" type="audio/mpeg" />
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 21: Idol Eyes</title>
+      <description>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</description>
+      <link>http://musicforprogramming.net/?c=twentyone</link>
+      <pubDate>Mon, 23 Sep 2013 04:50:00 -0700</pubDate>
+      <comments>http://datashat.net/music_for_programming_21-idol_eyes.mp3</comments>
+      <guid>http://datashat.net/music_for_programming_21-idol_eyes.mp3</guid>
+        <itunes:subtitle>Episode 21: Idol Eyes</itunes:subtitle>
+        <itunes:summary>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</itunes:summary>
+        <itunes:keywords>Electronic, Ambient, Acoustic, Drone, Noise, Instrumental, Study, Concentration, Programming</itunes:keywords>
+        <itunes:duration>1:08:06</itunes:duration>
+        <itunes:author>Music For Programming</itunes:author>
+        <itunes:image href="http://musicforprogramming.net/img/mfp.jpg"></itunes:image>
+        <dc:creator>Music For Programming</dc:creator>
+        <enclosure url="http://datashat.net/music_for_programming_21-idol_eyes.mp3" length="128585360" type="audio/mpeg" />
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 20: Uberdog</title>
+      <description>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</description>
+      <link>http://musicforprogramming.net/?c=twenty</link>
+      <pubDate>Fri, 02 Aug 2013 08:27:00 -0700</pubDate>
+      <comments>http://datashat.net/music_for_programming_20-uberdog.mp3</comments>
+      <guid>http://datashat.net/music_for_programming_20-uberdog.mp3</guid>
+        <itunes:subtitle>Episode 20: Uberdog</itunes:subtitle>
+        <itunes:summary>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</itunes:summary>
+        <itunes:keywords>Electronic, Ambient, Acoustic, Drone, Noise, Instrumental, Study, Concentration, Programming</itunes:keywords>
+        <itunes:duration>1:00:14</itunes:duration>
+        <itunes:author>Music For Programming</itunes:author>
+        <itunes:image href="http://musicforprogramming.net/img/mfp.jpg"></itunes:image>
+        <dc:creator>Music For Programming</dc:creator>
+        <enclosure url="http://datashat.net/music_for_programming_20-uberdog.mp3" length="111331636" type="audio/mpeg" />
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 19: Hivemind</title>
+      <description>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</description>
+      <link>http://musicforprogramming.net/?c=nineteen</link>
+      <pubDate>Tue, 23 Apr 2013 08:27:00 -0700</pubDate>
+      <comments>http://datashat.net/music_for_programming_19-hivemind.mp3</comments>
+      <guid>http://datashat.net/music_for_programming_19-hivemind.mp3</guid>
+        <itunes:subtitle>Episode 19: Hivemind</itunes:subtitle>
+        <itunes:summary>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</itunes:summary>
+        <itunes:keywords>Electronic, Ambient, Acoustic, Drone, Noise, Instrumental, Study, Concentration, Programming</itunes:keywords>
+        <itunes:duration>1:00:12</itunes:duration>
+        <itunes:author>Music For Programming</itunes:author>
+        <itunes:image href="http://musicforprogramming.net/img/mfp.jpg"></itunes:image>
+        <dc:creator>Music For Programming</dc:creator>
+        <enclosure url="http://datashat.net/music_for_programming_19-hivemind.mp3" length="109932256" type="audio/mpeg" />
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 18: Konx Om Pax</title>
+      <description>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</description>
+      <link>http://musicforprogramming.net/?c=eighteen</link>
+      <pubDate>Wed, 20 Feb 2013 19:47:00 -0800</pubDate>
+      <comments>http://datashat.net/music_for_programming_18-konx_om_pax.mp3</comments>
+      <guid>http://datashat.net/music_for_programming_18-konx_om_pax.mp3</guid>
+        <itunes:subtitle>Episode 18: Konx Om Pax</itunes:subtitle>
+        <itunes:summary>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</itunes:summary>
+        <itunes:keywords>Electronic, Ambient, Acoustic, Drone, Noise, Instrumental, Study, Concentration, Programming</itunes:keywords>
+        <itunes:duration>0:49:24</itunes:duration>
+        <itunes:author>Music For Programming</itunes:author>
+        <itunes:image href="http://musicforprogramming.net/img/mfp.jpg"></itunes:image>
+        <dc:creator>Music For Programming</dc:creator>
+        <enclosure url="http://datashat.net/music_for_programming_18-konx_om_pax.mp3" length="90938280" type="audio/mpeg" />
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 17: Graphplan</title>
+      <description>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</description>
+      <link>http://musicforprogramming.net/?c=seventeen</link>
+      <pubDate>Sun, 25 Nov 2012 13:27:00 -0800</pubDate>
+      <comments>http://datashat.net/music_for_programming_17-graphplan.mp3</comments>
+      <guid>http://datashat.net/music_for_programming_17-graphplan.mp3</guid>
+        <itunes:subtitle>Episode 17: Graphplan</itunes:subtitle>
+        <itunes:summary>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</itunes:summary>
+        <itunes:keywords>Electronic, Ambient, Acoustic, Drone, Noise, Instrumental, Study, Concentration, Programming</itunes:keywords>
+        <itunes:duration>0:45:04</itunes:duration>
+        <itunes:author>Music For Programming</itunes:author>
+        <itunes:image href="http://musicforprogramming.net/img/mfp.jpg"></itunes:image>
+        <dc:creator>Music For Programming</dc:creator>
+        <enclosure url="http://datashat.net/music_for_programming_17-graphplan.mp3" length="108175486" type="audio/mpeg" />
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 16: Silent Stelios</title>
+      <description>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</description>
+      <link>http://musicforprogramming.net/?c=sixteen</link>
+      <pubDate>Tue, 06 Nov 2012 14:42:00 -0800</pubDate>
+      <comments>http://datashat.net/music_for_programming_16-silent_stelios.mp3</comments>
+      <guid>http://datashat.net/music_for_programming_16-silent_stelios.mp3</guid>
+        <itunes:subtitle>Episode 16: Silent Stelios</itunes:subtitle>
+        <itunes:summary>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</itunes:summary>
+        <itunes:keywords>Electronic, Ambient, Acoustic, Drone, Noise, Instrumental, Study, Concentration, Programming</itunes:keywords>
+        <itunes:duration>1:00:39</itunes:duration>
+        <itunes:author>Music For Programming</itunes:author>
+        <itunes:image href="http://musicforprogramming.net/img/mfp.jpg"></itunes:image>
+        <dc:creator>Music For Programming</dc:creator>
+        <enclosure url="http://datashat.net/music_for_programming_16-silent_stelios.mp3" length="104101601" type="audio/mpeg" />
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 15: Dan Adeyemi</title>
+      <description>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</description>
+      <link>http://musicforprogramming.net/?c=fifteen</link>
+      <pubDate>Thu, 11 Oct 2012 09:58:00 -0700</pubDate>
+      <comments>http://datashat.net/music_for_programming_15-dan_adeyemi.mp3</comments>
+      <guid>http://datashat.net/music_for_programming_15-dan_adeyemi.mp3</guid>
+        <itunes:subtitle>Episode 15: Dan Adeyemi</itunes:subtitle>
+        <itunes:summary>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</itunes:summary>
+        <itunes:keywords>Electronic, Ambient, Acoustic, Drone, Noise, Instrumental, Study, Concentration, Programming</itunes:keywords>
+        <itunes:duration>0:44:02</itunes:duration>
+        <itunes:author>Music For Programming</itunes:author>
+        <itunes:image href="http://musicforprogramming.net/img/mfp.jpg"></itunes:image>
+        <dc:creator>Music For Programming</dc:creator>
+        <enclosure url="http://datashat.net/music_for_programming_15-dan_adeyemi.mp3" length="73926491" type="audio/mpeg" />
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 14: Tahlhoff Garten + Untitled</title>
+      <description>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</description>
+      <link>http://musicforprogramming.net/?c=fourteen</link>
+      <pubDate>Tue, 25 Sep 2012 06:02:29 -0700</pubDate>
+      <comments>http://datashat.net/music_for_programming_14-tahlhoff_garten_and_untitled.mp3</comments>
+      <guid>http://datashat.net/music_for_programming_14-tahlhoff_garten_and_untitled.mp3</guid>
+        <itunes:subtitle>Episode 14: Tahlhoff Garten + Untitled</itunes:subtitle>
+        <itunes:summary>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</itunes:summary>
+        <itunes:keywords>Electronic, Ambient, Acoustic, Drone, Noise, Instrumental, Study, Concentration, Programming</itunes:keywords>
+        <itunes:duration>1:04:17</itunes:duration>
+        <itunes:author>Music For Programming</itunes:author>
+        <itunes:image href="http://musicforprogramming.net/img/mfp.jpg"></itunes:image>
+        <dc:creator>Music For Programming</dc:creator>
+        <enclosure url="http://datashat.net/music_for_programming_14-tahlhoff_garten_and_untitled.mp3" length="154268951" type="audio/mpeg" />
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 13: Matt Whitehead</title>
+      <description>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</description>
+      <link>http://musicforprogramming.net/?c=thirteen</link>
+      <pubDate>Wed, 29 Aug 2012 05:46:29 -0700</pubDate>
+      <comments>http://datashat.net/music_for_programming_13-matt_whitehead.mp3</comments>
+      <guid>http://datashat.net/music_for_programming_13-matt_whitehead.mp3</guid>
+        <itunes:subtitle>Episode 13: Matt Whitehead</itunes:subtitle>
+        <itunes:summary>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</itunes:summary>
+        <itunes:keywords>Electronic, Ambient, Acoustic, Drone, Noise, Instrumental, Study, Concentration, Programming</itunes:keywords>
+        <itunes:duration>1:13:58</itunes:duration>
+        <itunes:author>Music For Programming</itunes:author>
+        <itunes:image href="http://musicforprogramming.net/img/mfp.jpg"></itunes:image>
+        <dc:creator>Music For Programming</dc:creator>
+        <enclosure url="http://datashat.net/music_for_programming_13-matt_whitehead.mp3" length="123259461" type="audio/mpeg" />
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 12: Forgotten Light</title>
+      <description>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</description>
+      <link>http://musicforprogramming.net/?c=twelve</link>
+      <pubDate>Tue, 07 Aug 2012 04:46:29 -0700</pubDate>
+      <comments>http://datashat.net/music_for_programming_12-forgotten_light.mp3</comments>
+      <guid>http://datashat.net/music_for_programming_12-forgotten_light.mp3</guid>
+        <itunes:subtitle>Episode 12: Forgotten Light</itunes:subtitle>
+        <itunes:summary>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</itunes:summary>
+        <itunes:keywords>Electronic, Ambient, Acoustic, Drone, Noise, Instrumental, Study, Concentration, Programming</itunes:keywords>
+        <itunes:duration>0:53:49</itunes:duration>
+        <itunes:author>Music For Programming</itunes:author>
+        <itunes:image href="http://musicforprogramming.net/img/mfp.jpg"></itunes:image>
+        <dc:creator>Music For Programming</dc:creator>
+        <enclosure url="http://datashat.net/music_for_programming_12-forgotten_light.mp3" length="86678159" type="audio/mpeg" />
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 11: Miles Tilmann</title>
+      <description>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</description>
+      <link>http://musicforprogramming.net/?c=eleven</link>
+      <pubDate>Tue, 24 Jul 2012 00:31:29 -0700</pubDate>
+      <comments>http://datashat.net/music_for_programming_11-miles_tilmann.mp3</comments>
+      <guid>http://datashat.net/music_for_programming_11-miles_tilmann.mp3</guid>
+        <itunes:subtitle>Episode 11: Miles Tilmann</itunes:subtitle>
+        <itunes:summary>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</itunes:summary>
+        <itunes:keywords>Electronic, Ambient, Acoustic, Drone, Noise, Instrumental, Study, Concentration, Programming</itunes:keywords>
+        <itunes:duration>0:30:08</itunes:duration>
+        <itunes:author>Music For Programming</itunes:author>
+        <itunes:image href="http://musicforprogramming.net/img/mfp.jpg"></itunes:image>
+        <dc:creator>Music For Programming</dc:creator>
+        <enclosure url="http://datashat.net/music_for_programming_11-miles_tilmann.mp3" length="52836736" type="audio/mpeg" />
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 10: Unity Gain Temple</title>
+      <description>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</description>
+      <link>http://musicforprogramming.net/?c=ten</link>
+      <pubDate>Thu, 05 Jul 2012 07:50:29 -0700</pubDate>
+      <comments>http://datashat.net/music_for_programming_10-unity_gain_temple.mp3</comments>
+      <guid>http://datashat.net/music_for_programming_10-unity_gain_temple.mp3</guid>
+        <itunes:subtitle>Episode 10: Unity Gain Temple</itunes:subtitle>
+        <itunes:summary>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</itunes:summary>
+        <itunes:keywords>Electronic, Ambient, Acoustic, Drone, Noise, Instrumental, Study, Concentration, Programming</itunes:keywords>
+        <itunes:duration>0:51:07</itunes:duration>
+        <itunes:author>Music For Programming</itunes:author>
+        <itunes:image href="http://musicforprogramming.net/img/mfp.jpg"></itunes:image>
+        <dc:creator>Music For Programming</dc:creator>
+        <enclosure url="http://datashat.net/music_for_programming_10-unity_gain_temple.mp3" length="122668237" type="audio/mpeg" />
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 09: Datassette</title>
+      <description>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</description>
+      <link>http://musicforprogramming.net/?c=nine</link>
+      <pubDate>Tue, 19 Jun 2012 07:50:29 -0700</pubDate>
+      <comments>http://datashat.net/music_for_programming_9-datassette.mp3</comments>
+      <guid>http://datashat.net/music_for_programming_9-datassette.mp3</guid>
+        <itunes:subtitle>Episode 09: Datassette</itunes:subtitle>
+        <itunes:summary>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</itunes:summary>
+        <itunes:keywords>Electronic, Ambient, Acoustic, Drone, Noise, Instrumental, Study, Concentration, Programming</itunes:keywords>
+        <itunes:duration>1:12:03</itunes:duration>
+        <itunes:author>Music For Programming</itunes:author>
+        <itunes:image href="http://musicforprogramming.net/img/mfp.jpg"></itunes:image>
+        <dc:creator>Music For Programming</dc:creator>
+        <enclosure url="http://datashat.net/music_for_programming_9-datassette.mp3" length="124580605" type="audio/mpeg" />
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 08: Connectedness Locus</title>
+      <description>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</description>
+      <link>http://musicforprogramming.net/?c=eight</link>
+      <pubDate>Mon, 14 May 2012 05:50:29 -0700</pubDate>
+      <comments>http://datashat.net/music_for_programming_8-connectedness_locus.mp3</comments>
+      <guid>http://datashat.net/music_for_programming_8-connectedness_locus.mp3</guid>
+        <itunes:subtitle>Episode 08: Connectedness Locus</itunes:subtitle>
+        <itunes:summary>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</itunes:summary>
+        <itunes:keywords>Electronic, Ambient, Acoustic, Drone, Noise, Instrumental, Study, Concentration, Programming</itunes:keywords>
+        <itunes:duration>0:55:25</itunes:duration>
+        <itunes:author>Music For Programming</itunes:author>
+        <itunes:image href="http://musicforprogramming.net/img/mfp.jpg"></itunes:image>
+        <dc:creator>Music For Programming</dc:creator>
+        <enclosure url="http://datashat.net/music_for_programming_8-connectedness_locus.mp3" length="98210902" type="audio/mpeg" />
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 07: Tahlhoff Garten + Untitled</title>
+      <description>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</description>
+      <link>http://musicforprogramming.net/?c=seven</link>
+      <pubDate>Tue, 17 Apr 2012 06:50:29 -0700</pubDate>
+      <comments>http://datashat.net/music_for_programming_7-tahlhoff_garten_and_untitled.mp3</comments>
+      <guid>http://datashat.net/music_for_programming_7-tahlhoff_garten_and_untitled.mp3</guid>
+        <itunes:subtitle>Episode 07: Tahlhoff Garten + Untitled</itunes:subtitle>
+        <itunes:summary>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</itunes:summary>
+        <itunes:keywords>Electronic, Ambient, Acoustic, Drone, Noise, Instrumental, Study, Concentration, Programming</itunes:keywords>
+        <itunes:duration>1:06:59</itunes:duration>
+        <itunes:author>Music For Programming</itunes:author>
+        <itunes:image href="http://musicforprogramming.net/img/mfp.jpg"></itunes:image>
+        <dc:creator>Music For Programming</dc:creator>
+        <enclosure url="http://datashat.net/music_for_programming_7-tahlhoff_garten_and_untitled.mp3" length="109105658" type="audio/mpeg" />
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 06: Gods Of The New Age</title>
+      <description>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</description>
+      <link>http://musicforprogramming.net/?c=six</link>
+      <pubDate>Sat, 31 Mar 2012 01:23:29 -0700</pubDate>
+      <comments>http://datashat.net/music_for_programming_6-gods_of_the_new_age.mp3</comments>
+      <guid>http://datashat.net/music_for_programming_6-gods_of_the_new_age.mp3</guid>
+        <itunes:subtitle>Episode 06: Gods Of The New Age</itunes:subtitle>
+        <itunes:summary>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</itunes:summary>
+        <itunes:keywords>Electronic, Ambient, Acoustic, Drone, Noise, Instrumental, Study, Concentration, Programming</itunes:keywords>
+        <itunes:duration>0:55:59</itunes:duration>
+        <itunes:author>Music For Programming</itunes:author>
+        <itunes:image href="http://musicforprogramming.net/img/mfp.jpg"></itunes:image>
+        <dc:creator>Music For Programming</dc:creator>
+        <enclosure url="http://datashat.net/music_for_programming_6-gods_of_the_new_age.mp3" length="101919386" type="audio/mpeg" />
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 05: Abe Mangger</title>
+      <description>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</description>
+      <link>http://musicforprogramming.net/?c=five</link>
+      <pubDate>Mon, 20 Feb 2012 07:28:58 -0800</pubDate>
+      <comments>http://datashat.net/music_for_programming_5-abe_mangger.mp3</comments>
+      <guid>http://datashat.net/music_for_programming_5-abe_mangger.mp3</guid>
+        <itunes:subtitle>Episode 05: Abe Mangger</itunes:subtitle>
+        <itunes:summary>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</itunes:summary>
+        <itunes:keywords>Electronic, Ambient, Acoustic, Drone, Noise, Instrumental, Study, Concentration, Programming</itunes:keywords>
+        <itunes:duration>1:08:51</itunes:duration>
+        <itunes:author>Music For Programming</itunes:author>
+        <itunes:image href="http://musicforprogramming.net/img/mfp.jpg"></itunes:image>
+        <dc:creator>Music For Programming</dc:creator>
+        <enclosure url="http://datashat.net/music_for_programming_5-abe_mangger.mp3" length="165260217" type="audio/mpeg" />
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 04: Com Truise</title>
+      <description>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</description>
+      <link>http://musicforprogramming.net/?c=four</link>
+      <pubDate>Thu, 02 Feb 2012 09:18:58 -0800</pubDate>
+      <comments>http://datashat.net/music_for_programming_4-com_truise.mp3</comments>
+      <guid>http://datashat.net/music_for_programming_4-com_truise.mp3</guid>
+        <itunes:subtitle>Episode 04: Com Truise</itunes:subtitle>
+        <itunes:summary>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</itunes:summary>
+        <itunes:keywords>Electronic, Ambient, Acoustic, Drone, Noise, Instrumental, Study, Concentration, Programming</itunes:keywords>
+        <itunes:duration>0:50:46</itunes:duration>
+        <itunes:author>Music For Programming</itunes:author>
+        <itunes:image href="http://musicforprogramming.net/img/mfp.jpg"></itunes:image>
+        <dc:creator>Music For Programming</dc:creator>
+        <enclosure url="http://datashat.net/music_for_programming_4-com_truise.mp3" length="121844531" type="audio/mpeg" />
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 03: Datassette</title>
+      <description>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</description>
+      <link>http://musicforprogramming.net/?c=three</link>
+      <pubDate>Wed, 23 Nov 2011 09:41:57 -0800</pubDate>
+      <comments>http://datashat.net/music_for_programming_3-datassette.mp3</comments>
+      <guid>http://datashat.net/music_for_programming_3-datassette.mp3</guid>
+        <itunes:subtitle>Episode 03: Datassette</itunes:subtitle>
+        <itunes:summary>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</itunes:summary>
+        <itunes:keywords>Electronic, Ambient, Acoustic, Drone, Noise, Instrumental, Study, Concentration, Programming</itunes:keywords>
+        <itunes:duration>1:17:08</itunes:duration>
+        <itunes:author>Music For Programming</itunes:author>
+        <itunes:image href="http://musicforprogramming.net/img/mfp.jpg"></itunes:image>
+        <dc:creator>Music For Programming</dc:creator>
+        <enclosure url="http://datashat.net/music_for_programming_3-datassette.mp3" length="132583389" type="audio/mpeg" />
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 02: Sunjammer</title>
+      <description>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</description>
+      <link>http://musicforprogramming.net/?c=two</link>
+      <pubDate>Thu, 09 Jun 2011 09:18:58 -0700</pubDate>
+      <comments>http://datashat.net/music_for_programming_2-sunjammer.mp3</comments>
+      <guid>http://datashat.net/music_for_programming_2-sunjammer.mp3</guid>
+        <itunes:subtitle>Episode 02: Sunjammer</itunes:subtitle>
+        <itunes:summary>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</itunes:summary>
+        <itunes:keywords>Electronic, Ambient, Acoustic, Drone, Noise, Instrumental, Study, Concentration, Programming</itunes:keywords>
+        <itunes:duration>0:51:15</itunes:duration>
+        <itunes:author>Music For Programming</itunes:author>
+        <itunes:image href="http://musicforprogramming.net/img/mfp.jpg"></itunes:image>
+        <dc:creator>Music For Programming</dc:creator>
+        <enclosure url="http://datashat.net/music_for_programming_2-sunjammer.mp3" length="123021285" type="audio/mpeg" />
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Episode 01: Datassette</title>
+      <description>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</description>
+      <link>http://musicforprogramming.net/?c=one</link>
+      <pubDate>Tue, 22 Feb 2011 09:17:58 -0800</pubDate>
+      <comments>http://datashat.net/music_for_programming_1-datassette.mp3</comments>
+      <guid>http://datashat.net/music_for_programming_1-datassette.mp3</guid>
+        <itunes:subtitle>Episode 01: Datassette</itunes:subtitle>
+        <itunes:summary>Datassette presents a series of mixes intended for listening while programming to aid concentration and increase productivity (also compatible with other activities).</itunes:summary>
+        <itunes:keywords>Electronic, Ambient, Acoustic, Drone, Noise, Instrumental, Study, Concentration, Programming</itunes:keywords>
+        <itunes:duration>1:02:16</itunes:duration>
+        <itunes:author>Music For Programming</itunes:author>
+        <itunes:image href="http://musicforprogramming.net/img/mfp.jpg"></itunes:image>
+        <dc:creator>Music For Programming</dc:creator>
+        <enclosure url="http://datashat.net/music_for_programming_1-datassette.mp3" length="88368647" type="audio/mpeg" />
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel></rss>
